@@ -1,0 +1,23 @@
+body {
+    background-color: #d8e1ff;
+}
+.footer .inner{
+	background: #d8e1ff;
+}
+.footer ul {
+	list-style-type: disc;
+	float: right;
+	color: #f74545;
+}
+.footer ul li a {
+	color: #f74545;
+	text-decoration: none;
+}
+html {
+	background: #d8e1ff;
+	font-family: 'Lato', sans-serif;
+	color: #6C6B6B;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
